@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 100,
+            "server": "kdb3.cp2mya6a8kd6.us-east-2.rds.amazonaws.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "kdb3",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "$7%VJgB0dH*D2f"
+        }
+    ]
+}
